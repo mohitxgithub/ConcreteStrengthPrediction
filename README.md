@@ -50,7 +50,7 @@
     <ul>
         <li>The dataset is split into training (80%) and testing (20%) subsets.</li>
         <li><b>StandardScaler</b> is applied to standardize features, ensuring they are on the same scale for improved model performance.</li>
-    <ul>
+    </ul>
     <h3><li>Building the Predictive Model</li></h3>
         <ul>
             <li>A <b>Linear Regression</b> model is implemented to predict compressive strength:</li>
