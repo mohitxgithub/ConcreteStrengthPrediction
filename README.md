@@ -4,7 +4,7 @@
     <h1>Concrete Strength Prediction</h1>
 </head>
 <body>
-    <p>One of my first projects , made this concrete price prediction using various Machine Learning model , achieved highest accuracy in RandomForest Regression model
+    <p>One of my first projects , made this concrete price prediction using various Machine Learning model , achieved highest accuracy in RandomForest Regression model (83%)
 </p>
    
 </body>
