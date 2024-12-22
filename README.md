@@ -57,6 +57,16 @@
             <li>Model performance is assessed using metrics like <b>Mean Absolute Error (MAE), Mean Squared Error (MSE)</b>, and <b>R² score</b> to validate prediction accuracy.</li>
         </ul>
     </ol>
+<h2>Tech Stack</h2>
+    <ul>
+        <li><b>Programming Language:</b> Python</li>
+        <li><b>Libraries:</b></li>
+        <ul>
+            <li>Data Analysis: pandas, numpy</li>
+            <li>Visualization: matplotlib, seaborn</li>
+            <li>Machine Learning: scikit-learn</li>
+        </ul>
+    </ul>
 </body>
 </html>
 
