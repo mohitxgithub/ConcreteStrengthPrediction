@@ -31,47 +31,37 @@
 <h2>Project Workflow</h2>
 <ol>
     <h3><li>Data Loading and Preprocessing</li></h3>
-</ol>
     <ul>
         <li>The dataset is loaded and inspected for structure, types, and statistical summaries.</li>
         <li>There are no missing values, ensuring the data is clean and ready for analysis</li>
     </ul>
-<ol>
     <h3><li>Exploratory Data Analysis (EDA)</li></h3>
-</ol>
     <ul>
         <li><b>Heatmaps and Correlation:</b> Visualize relationships among features and the target variable.</li>
         <li><b>Feature Distributions:</b> Analyze data distributions to understand feature variability.</li>
         <li><b>Pairplot Analysis:</b> Detect potential multicollinearity and trends</li>
     </ul>
-<ol>
     <h3><li>Multicollinearity Detection and Removal</li></h3>
-</ol>
     <ul>
         <li><b>Variance Inflation Factor (VIF)</b> analysis identifies features contributing to multicollinearity.</li>
         <li>Features with high VIF are removed to improve the robustness of the model.</li>
     </ul>
-<ol>
     <h3><li>Data Splitting and Scaling</li></h3>
-</ol>
     <ul>
         <li>The dataset is split into training (80%) and testing (20%) subsets.</li>
         <li><b>StandardScaler</b> is applied to standardize features, ensuring they are on the same scale for improved model performance.</li>
     <ul>
-<ol>
     <h3><li>Building the Predictive Model</li></h3>
-</ol>
         <ul>
             <li>A <b>Linear Regression</b> model is implemented to predict compressive strength:</li>
                     <li>Trained using the processed training data.</li>
                     <li>Evaluated on the test set to measure model performance.</li>
         </ul>
-<ol>
     <h3><li>Model Evaluation</li></h3>
-</ol>
         <ul>
             <li>Model performance is assessed using metrics like <b>Mean Absolute Error (MAE), Mean Squared Error (MSE)</b>, and <b>R² score</b> to validate prediction accuracy.</li>
         </ul>
+    </ol>
 </body>
 </html>
 
