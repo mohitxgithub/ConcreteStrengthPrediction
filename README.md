@@ -20,13 +20,18 @@
 <li>Slag (kg/m³): Ground granulated blast-furnace slag.</li>
 <li>Fly Ash (kg/m³): Pulverized coal ash.</li>
 <li>Water (kg/m³): Quantity of water.</li>
-<li>Superplasticizer (kg/m³): High-range water reducers</li>.
+<li>Superplasticizer (kg/m³): High-range water reducers</li>
 <li>Coarse Aggregate (kg/m³): Amount of coarse aggregates.</li>
 <li>Fine Aggregate (kg/m³): Amount of fine aggregates.</li>
 <li>Age (days): Age of concrete curing.</li>
 <li>Strength (MPa): Target variable representing the compressive strength.</li>
 </ul>
 </p>
+<br>
+<h2>Project Workflow</h2>
+<ol>
+    <li>Data Loading and Preprocessing</li>
+</ol>
 </body>
 </html>
 
