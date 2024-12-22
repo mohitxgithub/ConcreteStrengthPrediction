@@ -13,7 +13,8 @@
 </p>
 <br>
 <h2>Features in the Dataset</h2>
-<h3>The dataset consists of the following features:<h3>
+<h3>The dataset consists of the following features:</h3>
+<p>
 <ul>
 <li>Cement (kg/m³): Amount of cement in the mix.</li>
 <li>Slag (kg/m³): Ground granulated blast-furnace slag.</li>
@@ -24,7 +25,8 @@
 <li>Fine Aggregate (kg/m³): Amount of fine aggregates.</li>
 <li>Age (days): Age of concrete curing.</li>
 <li>Strength (MPa): Target variable representing the compressive strength.</li>
-   
+</ul>
+</p>
 </body>
 </html>
 
