@@ -30,7 +30,7 @@
 <br>
 <h2>Project Workflow</h2>
 <ol>
-    <li>Data Loading and Preprocessing</li>
+    <h3><li>Data Loading and Preprocessing</li></h3>
 </ol>
 </body>
 </html>
